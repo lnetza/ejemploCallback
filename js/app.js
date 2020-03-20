@@ -1,3 +1,4 @@
+//Ejemplo de callBack en una función asincrona
 //Listado de paises
 const paises=['Francia','España','Portugal','Australia','Inglaterra','Irlanda'];
 
